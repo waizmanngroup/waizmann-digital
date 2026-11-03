@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waizmann-digital-agentur.vercel.app/sitemap.xml
